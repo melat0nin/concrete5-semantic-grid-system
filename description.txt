@@ -1,2 +1,2 @@
-39steps concrete5 boilerplate
-A boilerplate theme for concrete5
+Semantic.gs starter theme 
+Starter Semantic.gs theme for concrete5
