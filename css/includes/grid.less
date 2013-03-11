@@ -7,7 +7,7 @@
 @gutter-width: 20;
 @columns: 12;
 
-// Utility variable — you should never need to modify this
+// Utility variable you should never need to modify this
 @gridsystem-width: (@column-width*@columns) + (@gutter-width*@columns) * 1px;
 
 // Set @total-width to 100% for a fluid layout
@@ -18,7 +18,7 @@
 // @correction: 0.5 / @min-width * 100 * 1%;
 
 // The micro clearfix http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix() {
+.clearfix {
 	*zoom:1;
 	
 	&:before,
